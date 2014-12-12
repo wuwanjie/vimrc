@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/wuwanjie/devspace'
+let g:netrw_dirhist_2='/home/wuwanjie/devspace/hao360cn_comment/project'
+let g:netrw_dirhist_3='/home/q/php/kafka_client'
